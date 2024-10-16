@@ -19,4 +19,3 @@ This command is creating a new virtual environment named "venv" using Conda, a p
 - predict_pipeline.py
 
 4. Set up Exception Handling and Logging configuration
-5.
